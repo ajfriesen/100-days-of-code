@@ -7,3 +7,11 @@
 **Thoughts:** As a non programmer I find the go docs pretty hard
 
 **Link to work:** [Go Webdevelopment Tutorial](https://www.usegolang.com/)
+
+### Day 2: June 16, 2018
+
+**Today's Progress**: Creating first views to use templates.
+
+**Thoughts:** I get the concepts, but it is still hard to understand everything in detail.
+
+**Link to work:** [Go Webdevelopment Tutorial](https://www.usegolang.com/)
