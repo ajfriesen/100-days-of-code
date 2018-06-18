@@ -15,3 +15,19 @@
 **Thoughts:** I get the concepts, but it is still hard to understand everything in detail.
 
 **Link to work:** [Go Webdevelopment Tutorial](https://www.usegolang.com/)
+
+### Day 3: June 17, 2018
+
+**Today's Progress**: Just a really small task. Had no time today.
+
+**Thoughts:** Pretty tired. Did it only to not brake the chain!
+
+**Link to work:** [Go Webdevelopment Tutorial](https://www.usegolang.com/)
+
+### Day 4: June 18, 2018
+
+**Today's Progress**: Cleaning up code with generic functions. Learning about globbing in go.
+
+**Thoughts:** Reading code a lot does help to understand it
+
+**Link to work:** [Go Webdevelopment Tutorial](https://www.usegolang.com/)
