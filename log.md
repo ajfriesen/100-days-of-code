@@ -31,3 +31,15 @@
 **Thoughts:** Reading code a lot does help to understand it
 
 **Link to work:** [Go Webdevelopment Tutorial](https://www.usegolang.com/)
+
+### Day 5: June 19, 2018
+
+**Today's Progress**: Adding a sign up page using views and templates in go.
+Reading about http and how the architecture works in GO Web Programming by Sau Sheong Chang.
+
+**Thoughts:** It is really nice to actually know how web applications in general work, than using a framework, which hides so much things!
+I really like that approach for learning!!!
+
+**Links:** 
+* [Go Webdevelopment Tutorial](https://www.usegolang.com/)
+* [Go Web Programming by Sau Sheong Chang](https://www.manning.com/books/go-web-programming)
