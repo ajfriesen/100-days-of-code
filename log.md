@@ -43,3 +43,13 @@ I really like that approach for learning!!!
 **Links:** 
 * [Go Webdevelopment Tutorial](https://www.usegolang.com/)
 * [Go Web Programming by Sau Sheong Chang](https://www.manning.com/books/go-web-programming)
+
+### Day 6: June 20, 2018
+
+**Today's Progress**: Using the sign up form and building methods to pass in data.
+Using CRUD with the gorilla mux router.
+
+**Thoughts:** It feels like a very slow progress!
+
+**Links:** 
+* [Go Webdevelopment Tutorial](https://www.usegolang.com/)
